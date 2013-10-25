@@ -13,3 +13,4 @@ play
 # git add nubplay.sh
 # git commit -m 'some comment'
 # git remote add origin https://github.com/projectramo/nubplay.git
+# git push origin master
