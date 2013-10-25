@@ -4,7 +4,7 @@ This is just supposed to be a script to create a new PLAY dev environment in Ubu
 $ sudo apt-get install git-core
 $ git config --global user.name "Your Name"
 $ git config --global user.email your-email@address.com
-$ git clone https://github.com/ProjectRamo/nubdjang
+$ git clone https://github.com/ProjectRamo/nubplay
 
 should do the honors.
 
