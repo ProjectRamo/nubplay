@@ -1,0 +1,15 @@
+
+This is just supposed to be a script to create a new PLAY dev environment in Ubuntu 12.04 in AWS.
+
+$ sudo apt-get install git-core
+$ git config --global user.name "Your Name"
+$ git config --global user.email your-email@address.com
+$ git clone https://github.com/ProjectRamo/nubdjang
+
+should do the honors.
+
+Then 
+
+$ chmod +x nubplay.sh
+$ ./nubplay.sh
+
